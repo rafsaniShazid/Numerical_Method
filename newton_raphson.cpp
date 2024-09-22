@@ -1,3 +1,5 @@
+// This code solves any 2nd degree polynomial equation
+// whose derivative won't be zero 
 #include<bits/stdc++.h>
 typedef long long ll;
 #define forr(i, j, k) for(ll i = j; i < k; i++)
